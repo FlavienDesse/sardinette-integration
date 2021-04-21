@@ -1,4 +1,4 @@
 # sardinette-integration
 
-For the project to work, just run main.html on an HTML server
+For the project to work, just run main.html on a server
 
